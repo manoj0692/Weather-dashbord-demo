@@ -62,6 +62,14 @@ Git workflow for project development
 Error handling in distributed systems
 Cloud resource managementned
 
+## Troubleshooting
+While Running Python Script following Error was Comming
+**Error Creating Backet: Expected string or Byte got 'nonType)**
+Solutation :
+In Environment configuration Backet name was mismatch. After remodified Environment Variable programme run successfully
+
+
+
 
     
 
